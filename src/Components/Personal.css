@@ -1,0 +1,15 @@
+.table {
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+}
+.table td {
+    border: 2px solid rgb(199, 190, 190);
+    background:linear-gradient(to right,#57ADC4,#B2F4DA);
+    color:white;
+    font-weight: 500;
+    padding:2px;
+}
+.asd {
+    margin:10px;
+}

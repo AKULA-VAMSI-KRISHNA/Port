@@ -1,0 +1,25 @@
+.menubar {
+  /* background-color:sandybrown;
+    color:rgb(230, 239, 230); */
+  /* background-color: #358597;
+  color: #f4a896; */
+  text-align: center;
+  font-size: 20px;
+  margin-top: 0px;
+  /* padding:5px; */
+  word-spacing: 2px;
+  width: "80vw";
+}
+.qwe{
+    background-color: #358597;
+    color: #f4a896;
+    text-align: center;
+  font-size: 20px;
+  margin-top: 0px;
+  /* padding:5px; */
+  word-spacing: 2px;
+  width: "80vw";
+}
+.abc {
+    color:#f4a896;
+}

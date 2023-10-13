@@ -1,0 +1,19 @@
+.cer {
+    display:grid;
+    grid-template-columns: 5fr 2fr;
+    width:100%;
+    color:white;
+    padding-left: 5%;
+}
+.certificate {
+    border:2px solid  rgb(240, 235, 235);
+    background:linear-gradient(to right,#ef629f,#eecda3);
+    width:80%;
+    margin-left: 10%;
+    border-radius: 20px;
+}
+.certificate h1 {
+    color:white;
+    display: flex;
+    justify-content: center;
+}

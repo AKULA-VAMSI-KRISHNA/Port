@@ -1,0 +1,18 @@
+.abcd {
+    background-color: #3A6B35;
+    color:#E3B448;
+    margin-top: 30px;
+    display:flex;
+}
+.head {
+    color:#CBD18F;
+    padding:20px;
+}
+p {
+    font-size:25px;
+    padding:40px;
+}
+.image {
+    padding:20px;
+    opacity:90%;
+}
